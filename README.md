@@ -20,3 +20,4 @@ yMMNNNNNNNmmmmmNNMmhs+/-`
 `/ohdmmddhys+++/:.`                    
   `-//////:--.
 
+"nota, no se va a ver bien el ASCII cuando lo miras desde el preview del README de abajo de los archivos
